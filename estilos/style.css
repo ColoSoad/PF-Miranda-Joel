@@ -225,28 +225,28 @@ h3{
     }
 
     .item1:hover{
-        transform: scale(.5);
+        transform: scale(1.23);
     }
 
     .item2:hover{        
-        transform: scale(.5);
+        transform: scale(1.23);
     }
 
     .item3:hover{
-        transform: scale(.5);
+        transform: scale(1.23);
         
     }
     
     .item4:hover{
-        transform: scale(.5);
+        transform: scale(1.23);
     }
 
     .item5:hover{        
-        transform: scale(.5);
+        transform: scale(1.23);
     }
 
     .item6:hover{
-        transform: scale(.5);
+        transform: scale(1.23);
         
     }
 }
