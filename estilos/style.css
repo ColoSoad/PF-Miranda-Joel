@@ -187,10 +187,13 @@ h3{
 @media only screen and (min-width:300px) and (max-width:479px){
 
     .inicio{
-        height: 400px;
+        height: 450px;
         background-image: url(../multimedia/img/logo3.jpg);
         background-size: cover;
         background-position: center;
+    }
+    footer{
+        padding: 35px 0 0 0;
     }
     .e-left{
         order: 0
@@ -219,9 +222,13 @@ h3{
     .videos{
         justify-content: center;
     }
+    
+    .item{
+        transition: all .5s;
+    }
 
     .item:hover{
-        transition: all 400ms;
+        transition: all 3s;
     }
 
     .item1:hover{
@@ -336,9 +343,12 @@ h3{
         grid-gap: 20px;
         justify-content: center;
     }
+    .item{
+        transition: all .5s;
+    }
 
     .item:hover{
-        transition: all 400ms;
+        transition: all 3s;
     }
 
     .item1:hover{
