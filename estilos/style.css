@@ -196,11 +196,11 @@ h3{
         padding: 35px 0 0 0;
     }
     .e-left{
-        order: 0
+        order: 0;
     }
 
     .e-right{
-        order:1
+        order:1;
     }
 
     .e-left2{
@@ -208,7 +208,7 @@ h3{
     }
 
     .e-right2{
-        order:2
+        order:2;
     }
 
     .e-left3{
@@ -228,7 +228,7 @@ h3{
     }
 
     .item:hover{
-        transition: all 3s;
+        transition: all 1.5s;
     }
 
     .item1:hover{
@@ -331,6 +331,22 @@ h3{
     .e-right, .e-left2, .e-right3{
         padding-top: 85px;
     }
+
+    .e-left, .e-right2, .e-left3{
+        filter: grayscale(1);
+    }
+
+    .e-left:hover{
+        filter: grayscale(0);
+    }
+
+    .e-right2:hover{
+        filter: grayscale(0);
+    }
+
+    .e-left3:hover{
+        filter: grayscale(0);
+    }
 }
 
 @media only screen and (min-width:1025px) and (max-width:1820px){
@@ -379,6 +395,22 @@ h3{
 
     .e-right, .e-left2, .e-right3{
         padding-top: 85px;
+    }
+
+    .e-left, .e-right2, .e-left3{
+        filter: grayscale(1);
+    }
+
+    .e-left:hover{
+        filter: grayscale(0);
+    }
+
+    .e-right2:hover{
+        filter: grayscale(0);
+    }
+
+    .e-left3:hover{
+        filter: grayscale(0);
     }
 }
 
