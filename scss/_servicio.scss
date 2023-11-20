@@ -1,0 +1,14 @@
+video {
+    height: 570px;
+    width: 320px;
+  }
+  
+  .videos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .izq, .centro, .der {
+    padding: 30px;
+  }
