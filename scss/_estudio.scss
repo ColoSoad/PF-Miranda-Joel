@@ -1,16 +1,19 @@
+@mixin imagen {
+  background-size: cover;
+  background-position: center;
+}
 .e-left {
     padding: 100px 0 0 0;
     height: 450px;
     background-image: url(../multimedia/img/left1.jpg);
-    background-size: cover;
-    background-position: center;
+    @include imagen;
   }
   
   dl {
     padding: 25px 30px 95px 30px;
     color: $color-blanco;
     text-align: center;
-    font-family: 'Oswald', sans-serif;
+    font-family: $fuente;
   }
   
   span {
@@ -25,13 +28,11 @@
   .e-right2 {
     height: 450px;
     background-image: url(../multimedia/img/left2.jpg);
-    background-size: cover;
-    background-position: center;
+    @include imagen;
   }
   
   .e-left3 {
     height: 450px;
     background-image: url(../multimedia/img/left3.jpg);
-    background-size: cover;
-    background-position: center;
+    @include imagen;
   }

@@ -1,3 +1,9 @@
+@mixin filtro {
+    filter: grayscale(0);
+}
+@mixin filtro2 {
+    filter: grayscale(1);
+}
 @media only screen and (min-width:300px) and (max-width:479px){
 
     .inicio{
@@ -136,16 +142,16 @@
         padding-top: 85px;
     }
     .e-left, .e-right2, .e-left3{
-        filter: grayscale(1);
+        @include filtro2;
     }
     .e-left:hover{
-        filter: grayscale(0);
+        @include filtro;
     }
     .e-right2:hover{
-        filter: grayscale(0);
+        @include filtro;
     }
     .e-left3:hover{
-        filter: grayscale(0);
+        @include filtro;
     }
 }
 @media only screen and (min-width:1025px) and (max-width:1820px){   
@@ -187,15 +193,15 @@
         padding-top: 85px;
     }
     .e-left, .e-right2, .e-left3{
-        filter: grayscale(1);
+        @include filtro2;
     }
     .e-left:hover{
-        filter: grayscale(0);
+        @include filtro;
     }
     .e-right2:hover{
-        filter: grayscale(0);
+        @include filtro;
     }
     .e-left3:hover{
-        filter: grayscale(0);
+        @include filtro;
     }
 }
