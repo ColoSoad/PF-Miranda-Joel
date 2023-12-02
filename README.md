@@ -3,7 +3,7 @@
 # Proyecto Final - Coder House - Desarollo web 
 # Alumno: Miranda, Joel Hernán 
 # Comisión: 46965 
-# Versión 1.2
+# Versión 1.3
 # Tecnología 
 
     - Bootstrap 5.1
@@ -17,7 +17,6 @@
 
 # Contenido 
 
-    - Carpeta root (PreEntrega3-Miranda-Joel-Hernán) 
     - Carpeta css: 
                       estilo.css
                       estilo.css.map
@@ -38,17 +37,18 @@
     -Todo el código se encuentra indentado 4 espacios a la derecha, prolijo y con comentarios especificando línea 
     de código de html.
 
-    -En ésta actualización del sitio implemente un "carousel" de imagenes para darle mas cautividad al inicio del sitio. Y agregando contenido detallado a la sección de "proyectos".
+    -En ésta actualización del sitio implemente un "carousel" de imagenes para darle mas cautividad al inicio del sitio. Y agregando linear-gradient a todo el proyecto.
 
     -En gitHub está disponible el link para visualizar el proyecto. Él mismo cuenta con los siguientes 
-    commit:
+    commits:
             1. Primer commit de Pre entrega 3 - desarrollo web- coderhouse. (dd98636c4c8bf490f608b696d5ed6ef6b3de7b29)
 
             2. 2do commit arreglos con flexbox en la sección 'Estudio', correcciones ortográficas, correcciones semánticas de 'h1', agrego animación a 'Proyectos'. (597cecde1203cf57348644c1873e488f4c4f8883)
             
             3. 3er commit, arreglos en media-queries 320px en la sección 'Proyectos'. (7e90ee7485f2d0b97145518eb9b6e6b509847512)
             
-            4. 4to commit agrego trasition de salida a 'proyectos' y modifico 'home' en la media-queries para resolución mobile. (3f43dd1ff7eb257429d5fef323d84d54cff57b07)
+            4. 4to commit agrego trasition de salida a 'proyectos' y modifico 'home' en la media-queries para resolución mobile.
+               (3f43dd1ff7eb257429d5fef323d84d54cff57b07)
             
             5. 5to commit, agrego estilo en estudio y proyectos y modifico media queries. (951d2c88e9363e165118f37c9ff311df07b0c3b4)
             
@@ -62,7 +62,10 @@
             
             10. 10mo commit agrego variables y README.md. (c3c2806cccc22c792b2ee739ca0d2e352f5082a6)
 
-            11. 11vo commit, implementación de carousel en index con estilos implementados, y media queries. ()
+            11. 11vo commit, implementación de carousel en index con estilos implementados, y media queries
+                (66f5a5376522c9ab73d756acaf96fe8af15df2b2)
+
+            12. 12vo commit, implementación de degrade en todo el sitio, arreglos.()
 
 # Objetivos
 
