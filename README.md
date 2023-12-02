@@ -1,6 +1,6 @@
 
 
-# Tercera pre-entrega - Coder House - Desarollo web 
+# Proyecto Final - Coder House - Desarollo web 
 # Alumno: Miranda, Joel Hernán 
 # Comisión: 46965 
 # Versión 1.2
@@ -10,7 +10,7 @@
     - HTML 5 
     - CSS
     - Sass
-    - Javascript 
+    - Javascript (Bs5.1)
     - Visual Studio Code
     - Git
     - GitHub
@@ -38,7 +38,7 @@
     -Todo el código se encuentra indentado 4 espacios a la derecha, prolijo y con comentarios especificando línea 
     de código de html.
 
-    -Todas los errores y sugerencias de la segunda pre-entrega fueron corregidas y agregadas a ésta pre-entrega 3.
+    -En ésta actualización del sitio implemente un "carousel" de imagenes para darle mas cautividad al inicio del sitio. Y agregando contenido detallado a la sección de "proyectos".
 
     -En gitHub está disponible el link para visualizar el proyecto. Él mismo cuenta con los siguientes 
     commit:
@@ -60,7 +60,9 @@
             
             9. 9no commit, agrego mixins. (6cd46447adc2c434c3c70dc0368ae21d1107d466)
             
-            10. Agrego variables y README.md
+            10. 10mo commit agrego variables y README.md. (c3c2806cccc22c792b2ee739ca0d2e352f5082a6)
+
+            11. 11vo commit, implementación de carousel en index con estilos implementados, y media queries. ()
 
 # Objetivos
 
@@ -68,6 +70,7 @@
     - Efectuar el estilo final de la web.		                                                OK!
     - Realizar una correcta implementación de SASS.                                             OK!
     - Aplicar técnicas de SEO. (100pts final)                                                   OK!
-    - Generar la carga de un repositorio en GitHub                                              OK! 
+    - Generar la carga de un repositorio en GitHub                                              OK!
+    - Subida al servidor (9)                                                                    OK! 
 
 # M i r a n d a _ J o e l _ C o m i s i o n _ 4 6 9 6 5

@@ -5,16 +5,40 @@
     filter: grayscale(1);
 }
 @media only screen and (min-width:300px) and (max-width:479px){
-
+    .padd{
+        padding: 15px 0 0 0;
+      }
     .inicio{
         height: 450px;
         background-image: url(../multimedia/img/logo3.jpg);
         background-size: cover;
         background-position: center;
     }
-    footer{
-        padding: 35px 0 0 0;
+    .inicio2 {
+        height: 450px;
+        background-image: url(../multimedia/img/carousel4.jpg);
+        background-size: cover;
+        background-position: center;
     }
+      
+    .inicio3 {
+        height: 450px;
+        background-image: url(../multimedia/img/carousel5.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .inicio4 {
+        height: 450px;
+        background-image: url(../multimedia/img/carousel6.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+    
+    footer {
+        padding: 15px 0 15px 0;
+    }
+    
     .e-left{
         order: 0;
     }
