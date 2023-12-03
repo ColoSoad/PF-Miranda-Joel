@@ -65,7 +65,9 @@
             11. 11vo commit, implementación de carousel en index con estilos implementados, y media queries
                 (66f5a5376522c9ab73d756acaf96fe8af15df2b2)
 
-            12. 12vo commit, implementación de degrade en todo el sitio, arreglos.()
+            12. 12vo commit, implementación de degrade en todo el sitio, arreglos.(07289c6da16834d327baa4b83731916cd90e47ca)
+
+            13. 13ro commit, implementación de "Screenshot de uso de FileZilla" y modificación de README.md. ()
 
 # Objetivos
 
@@ -74,6 +76,7 @@
     - Realizar una correcta implementación de SASS.                                             OK!
     - Aplicar técnicas de SEO. (100pts final)                                                   OK!
     - Generar la carga de un repositorio en GitHub                                              OK!
-    - Subida al servidor (9)                                                                    OK! 
+    - Uso de gestor de sitios (FileZilla)                                                       OK!
+    - Subida al servidor (InfinityFree)                                                         OK! 
 
 # M i r a n d a _ J o e l _ C o m i s i o n _ 4 6 9 6 5
