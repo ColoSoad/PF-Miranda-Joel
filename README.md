@@ -67,7 +67,10 @@
 
             12. 12vo commit, implementación de degrade en todo el sitio, arreglos.(07289c6da16834d327baa4b83731916cd90e47ca)
 
-            13. 13ro commit, implementación de "Screenshot de uso de FileZilla" y modificación de README.md. ()
+            13. 13ro commit, implementación de "Screenshot de uso de FileZilla" y modificación de README.md.
+                (70e5740236a1e7d7a4f0f88c197f2db71c278ad0)
+
+            14. 14to commit, implementación de mas variables, ordenamiento del código fuente. ()
 
 # Objetivos
 

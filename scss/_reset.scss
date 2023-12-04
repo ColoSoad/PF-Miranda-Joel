@@ -10,5 +10,5 @@ body {
     background-color: $color-principal;
 }
 .grad {
-    background: linear-gradient(#2A3A47, black, black, #2A3A47);
+    background: linear-gradient($color-principal, $color-negro, $color-negro, $color-principal);
   }

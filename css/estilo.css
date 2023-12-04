@@ -14,7 +14,7 @@ body {
 }
 
 .grad {
-  background: linear-gradient(#2A3A47, black, black, #2A3A47);
+  background: linear-gradient(#2A3A47, #000, #000, #2A3A47);
 }
 
 img {
